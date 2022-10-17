@@ -6,6 +6,7 @@ public class Dummyproject {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		System.out.println("By");
+		System.out.println("cu");
 	}
 
 }
